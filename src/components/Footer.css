@@ -1,0 +1,17 @@
+.footer{
+  background:#1f1f1f;
+  color:white;
+  text-align:center;
+
+  padding:50px 20px;
+}
+
+.footer h2{
+  color:#f5b942;
+  margin-bottom:10px;
+}
+
+.copyright{
+  margin-top:20px;
+  color:#999;
+}

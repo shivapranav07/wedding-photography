@@ -1,0 +1,37 @@
+.contact-section{
+  padding:100px 10%;
+  background:#f8f5ef;
+  text-align:center;
+}
+
+.contact-section h2{
+  font-size:3rem;
+  color:#222;
+}
+
+.contact-section p{
+  color:#666;
+  margin-top:10px;
+}
+
+.contact-cards{
+  display:flex;
+  justify-content:center;
+  gap:30px;
+  flex-wrap:wrap;
+  margin-top:50px;
+}
+
+.card{
+  width:280px;
+  background:white;
+  padding:30px;
+  border-radius:15px;
+
+  box-shadow:0 5px 15px rgba(0,0,0,0.08);
+}
+
+.card h3{
+  color:#f5b942;
+  margin-bottom:10px;
+}

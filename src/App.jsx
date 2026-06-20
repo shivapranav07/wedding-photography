@@ -1,11 +1,11 @@
 import { Routes, Route } from "react-router-dom";
 
-import Navbar from "./tempComponents/Navbar";
+import Navbar from "./components/Navbar";
 
-import Home from "./tempPages/Home";
-import Portfolio from "./tempPages/Portfolio";
-import Services from "./tempPages/Services";
-import Contact from "./tempPages/Contact";
+import Home from "./Pages/Home";
+import Portfolio from "./Pages/Portfolio";
+import Services from "./Pages/Services";
+import Contact from "./Pages/Contact";
 
 function App() {
   return (
